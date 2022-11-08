@@ -1,0 +1,3 @@
+export default CHANGE_INPUT_VALUE_REDUX= 'change_input_value';
+/**export const ADD_LIST_ITEM_REDUX = 'add_list_item';
+export const DELETE_LIST_ITEM_REDUX = 'delete_list_item';**/
